@@ -1,0 +1,10 @@
+number function qwe,number x)
+[
+	return 4;
+]
+
+
+main
+[
+	qwe(4);
+]
